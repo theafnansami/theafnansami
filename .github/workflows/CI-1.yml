@@ -9,4 +9,4 @@ jobs:
       - name: CI
         run: |
          curl --request POST \
-          --url 'https://api.netlify.com/build_hooks/6499a8547aeaae00b5315025' \
+          --url 'https://api.netlify.com/build_hooks/64aafbd351fcd551654f2f1f' \
